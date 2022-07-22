@@ -1,6 +1,6 @@
 package model;
 
-public class Pakket {
+public class Pakket implements Vervoerbaar {
 
     private String naamVanKind;
     private String cadeau;
